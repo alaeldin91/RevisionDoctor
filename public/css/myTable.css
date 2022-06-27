@@ -1,0 +1,30 @@
+﻿.Mytable td:first-child  ,.Mytable th:first-child
+{
+	width:20px;
+	
+}
+.Mytable td:last-child ,.Mytable th:last-child 
+{
+	width:50px;
+
+}
+.Mytable tr ,.Mytable td ,.Mytable th
+{
+	
+	width:150px;
+	height:25px;
+}
+.Mytable th, .Mytable td {
+    border: 1px solid black;
+    float:right;
+}
+.Mytable td {
+	border-top: 1px solid #e0e0e0;
+	border-bottom:1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+	background: #fafafa;
+	}
+.Mytable th {
+	border-top:1px solid #fafafa;
+	border-bottom:1px solid #e0e0e0;
+  background-color: #ffb500	}
